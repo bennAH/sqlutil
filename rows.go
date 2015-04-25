@@ -2,7 +2,6 @@ package sqlutil
 
 import (
 	"database/sql"
-	"strings"
 )
 
 // Creates a result holder for a query result as an array of raw bytes
